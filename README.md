@@ -9,11 +9,12 @@
 
 **Linguagens e Bibliotecas**
 
+ - React
+ - Jest
  - Python
  - HTML
  - CSS
  - JS
- - C
 
 **Ferramentas de Desenvolvimento**
 
