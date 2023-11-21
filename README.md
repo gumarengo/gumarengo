@@ -2,14 +2,20 @@
 
 ----- 
 
+ - 🎓 **Engenheiro Mecânico** na [FACENS/Sorocaba](https://facens.br/)
  - 🎓 **Análise e Desenvolvimento de Sistemas** na [FATEC/Sorocaba](http://www.fatecsorocaba.edu.br/)
  - 💼 **Call Me**
+
+## Atual
+- 🔭 Atualmente trabalhando na Stellantis, como terceiro, contratado pela PTC Group
+- 🌱 Estou estudando Node.JS, Next.JS e Python
 
 ## 🚀 Habilidades
 
 **Linguagens e Bibliotecas**
 
  - React
+ - Angular
  - Jest
  - Python
  - HTML
